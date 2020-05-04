@@ -14,6 +14,12 @@
 3. [Gradient Problem](https://github.com/HanEol-Lee77/TIL-about-AI/tree/master/appendix/gradient_vanishing_exploding) 
    1. 역전파
    2. Vanish Gradient Problem
+4. [Loss Function](https://github.com/HanEol-Lee77/TIL-about-AI/tree/master/appendix/loss_function)
+   1. Definition of Loss Function
+   2. In Regression
+   3. In Classification
+   4. Why ACE in Classification, not MSE
+   5. 기타
 
 ------
 
